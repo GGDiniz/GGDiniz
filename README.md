@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Gabriel Diniz and my nickname is "GGDiniz"!
 
-<!--
-**GGDiniz/GGDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
 
-Here are some ideas to get you started:
+Olá! Me chamo Gabriel Diniz, atualmente sou supervisor de T.I na Correa Lacerda Advocacia, onde lidero a equipe de TI e desenvolvo sistemas de automação utilizando Python. Estou sempre buscando expandir meus conhecimentos em desenvolvimento de software e gestão de projetos.
+O que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+No momento, estou focado em aprimorar minhas habilidades em Python para desenvolvimento de soluções robustas e eficientes para automação de processos.
+Experiência
+
+Possuo experiência sólida em gestão de equipe de TI, otimização de processos e implementação de soluções tecnológicas. Minha formação e trajetória profissional têm sido fundamentais para meu desenvolvimento contínuo neste setor dinâmico.
+Conhecimentos adquiridos
+
+Tenho expertise em Python, automação de sistemas, e gerenciamento de infraestrutura de TI.
+Contato
+
+Você pode me encontrar no LinkedIn em " www.linkedin.com/in/gabriel-diniz-0875111aa " para conexões profissionais.
+
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"  width="40" height="40" />
+          
 -->
