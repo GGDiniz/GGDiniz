@@ -26,4 +26,4 @@ Você pode me encontrar no LinkedIn [aqui](www.linkedin.com/in/gabriel-diniz-087
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GGDiniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-(https://tenor.com/pt-BR/view/walking-code-computer-gif-11570098)
+[.](https://tenor.com/pt-BR/view/walking-code-computer-gif-11570098)
