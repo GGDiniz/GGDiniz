@@ -15,7 +15,7 @@ Conhecimentos adquiridos
 Tenho expertise em Python, automação de sistemas, e gerenciamento de infraestrutura de TI.
 Contato
 
-Você pode me encontrar no LinkedIn em " www.linkedin.com/in/gabriel-diniz-0875111aa " para conexões profissionais.
+Você pode me encontrar no LinkedIn [aqui](www.linkedin.com/in/gabriel-diniz-0875111aa) para conexões profissionais.
 
 ## Ferramentas e Tecnologias
 
